@@ -5,3 +5,8 @@
   
 #打包
 Build -> build artifacts
+
+
+#上传命令
+scp test.txt roo@spark1:/tmp/
+
